@@ -1,3 +1,5 @@
 # hello-world
 learning
-i m sutej
+hi i m sutej
+
+i want to learn python
